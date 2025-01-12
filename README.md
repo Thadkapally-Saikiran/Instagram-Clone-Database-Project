@@ -48,3 +48,11 @@ Once the database is set up, you can execute the SQL queries provided in the fil
 ## SQL Queries Included:
 The following queries are included to analyze the data in different ways:
 1. **Finding 5 oldest users**
+2. **Identifying the days of the week with the most user registrations**
+3. **Finding users who have never posted a photo**
+4. **Identifying the most liked photo**
+5. **Finding users who have liked every photo**
+6. **Finding the top 5 most commonly used hashtags**
+
+## Contributions
+Feel free to fork the repository, submit issues, or create pull requests to improve the project. Contributions are welcome!
