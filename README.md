@@ -38,3 +38,6 @@ To set up this database locally and run the queries in MySQL Workbench:
 
    ```bash
    git clone https://github.com/yourusername/instagram-clone-database.git
+
+## Import the SQL file:
+Open MySQL Workbench, connect to your MySQL server, and open the .sql file in the repository. Run the file to create the database schema and insert sample data.
