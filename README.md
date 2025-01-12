@@ -41,3 +41,10 @@ To set up this database locally and run the queries in MySQL Workbench:
 
 ## Import the SQL file:
 Open MySQL Workbench, connect to your MySQL server, and open the .sql file in the repository. Run the file to create the database schema and insert sample data.
+
+## Run the Queries:
+Once the database is set up, you can execute the SQL queries provided in the file to interact with the data, analyze user activity, and more.
+
+## SQL Queries Included:
+The following queries are included to analyze the data in different ways:
+1. **Finding 5 oldest users**
